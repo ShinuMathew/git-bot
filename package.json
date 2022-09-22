@@ -1,0 +1,24 @@
+{
+  "name": "git-bot",
+  "version": "1.0.0",
+  "description": "Simple git bot to automate source code management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinuMathew/git-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinuMathew/git-bot/issues"
+  },
+  "homepage": "https://github.com/ShinuMathew/git-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.14.0"
+  }
+}
